@@ -1,6 +1,8 @@
 ### Hi, I'm Aris
 
-I build OpenClaw plugins and creative tools.
+Code as a medium, art as the goal.
+
+I use code to empower digital art — building tools, workflows, and bridges that connect AI with creative expression.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CreatorAris/CreatorAris/dist/github-snake-dark.svg" />
